@@ -1,4 +1,4 @@
-.. image:: https://github.com/newfies-dialer/newfies-dialer/raw/master/newfies/resources/images/newfies.png
+.. image:: https://github.com/SchoolOfFreelancing/Voice-Broadcasting/blob/develop/img/logo.jpg
 
 .. DANGER:: Newfies-Dialer open source development was discontinued in 2015, but Newfies-Dialer continues to be developed as a commercial closed source product. See https://www.newfies-dialer.org
 
